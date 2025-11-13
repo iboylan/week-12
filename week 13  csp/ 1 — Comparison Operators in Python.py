@@ -43,7 +43,6 @@ if grade < 0:
     print("You can't have that...")
 else:
     if grade > 60:
-        print("Ok")
         if 70 > grade >= 60:
             print("You have a D.")
         else:

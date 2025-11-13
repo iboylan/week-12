@@ -20,12 +20,12 @@ print(1 < x < 20)         # True
 
 
 # Practice Problems:
-
+num = 78123220930832908890328921
 # Write an expression that checks if a number is between 50 and 100 (inclusive).
-
+print(num >= 50 and num <= 100)
 # Write an expression that checks if a number is NOT equal to 0 and greater than 10.
-
+print(not(num == 0 and num > 10))
 # Use chained comparison to check if 3 < 4 < 5.
-
+print(3 < 4 < 5)
 # Challenge: Create a password rule using logical operators:
 
