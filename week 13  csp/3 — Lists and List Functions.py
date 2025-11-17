@@ -64,3 +64,9 @@ mimii = list(range(1,1001))
 print(mimii)
 mimii.pop()
 print(mimii)
+
+hueh = {1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7,7,7,7,7, 8}
+print(hueh)
+
+meepmorp = (1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 8)
+print(meepmorp)
