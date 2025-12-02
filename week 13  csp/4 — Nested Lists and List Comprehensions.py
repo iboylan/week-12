@@ -56,5 +56,8 @@ for x in alallaa:
     print(alallaa[y+1][2])
     y=y+1
 
+
 # Challenge: Create a new list containing squares of numbers from 1–10 using a comprehension.
 
+eeieiie = [x**2 for x in range(1,11)]
+print(eeieiie)
